@@ -1,6 +1,8 @@
-# Next Step <img src="https://cdn.discordapp.com/attachments/1292391528400031757/1306995609949179965/App_icon_4.1_flat_preview.png?ex=6757ad44&is=67565bc4&hm=c88d8ecfa9cf412ce12793d61babffa65761413ffd6cb2dc1fb768a21c95d616&" alt="nextstep" width="40" height="40"/>
+# Next Step <img src="https://github.com/Capstone-NextStep/.github/blob/main/profile/assets/nextstep-logo.png" alt="nextstep" width="40" height="40"/>
 
 This repository hosts the development and features of the **Empowering Minds** application, created as part of the Bangkit 2024 Capstone Product Track. Our app is designed to guide users' personal education and career journeys by providing tailored tools and resources.
+
+NextStep aims to empower students in making informed career decisions by addressing the disconnect between academic experiences and career readiness. Many students struggle to identify how their interests and skills translate into fulfilling job roles, leading to misaligned career paths, dissatisfaction, and high turnover rates. This project leverages data-driven strategies to assess students' skills and interests, offering personalized guidance to align their strengths with appropriate career opportunities
 
 ---
 
@@ -26,18 +28,15 @@ This repository hosts the development and features of the **Empowering Minds** a
 
 This project was developed by a multidisciplinary team from the **Bangkit Academy 2024** cohort, including specialists in:  
 
-### Machine Learning  
-- 🧠 **Rahmat Dwi Putra**  
-- 🧠 **Sahdad Jovito**  
-- 🧠 **Khadiza Jannahanggita Nurhuda**  
-
-### Cloud Computing  
-- ☁️ **Muhammad Raihan Saputra**  
-- ☁️ **Bryant Firsta Agdinto**  
-
-### Mobile Development  
-- 📱 **Wito Irawan**  
-- 📱 **Dhimas Arya Priambodo**  
+| Bangkit ID       | Name                      | Learning Path      | University                           | LinkedIn Profile | Github | Status |
+|-------------------|---------------------------|--------------------|---------------------------------------|------------------|--------|--------|
+| M429B4KY3627      | Rahmat Dwi Putra         | Machine Learning   | Universitas Dinamika Bangsa           |                  |        | Active |
+| M404B4KY4007      | Sahdad Jovito            | Machine Learning   | Politeknik Negeri Batam               |                  |        | Active |
+| M117B4KX2195      | Khadiza Jannahanggita Nurhuda | Machine Learning   | Institut Teknologi Nasional Bandung   |                  |        | Active |
+| C245B4KY0879      | Bryant Firsta Agdinto    | Cloud Computing    | Universitas Kristen Satya Wacana      |                  |        | Active |
+| C429B4KY3017      | Muhammad Raihan Saputra  | Cloud Computing    | Universitas Dinamika Bangsa           |                  |        | Active |
+| A013B4KY4508      | Wito Irawan              | Mobile Development | Universitas Terbuka                   |                  |        | Active |
+| A204B4KY1096      | Dhimas Arya Priambodo    | Mobile Development | Universitas Esa Unggul                |                  |        | Active |
 
 
 <h3 align="left">Languages and Tools:</h3>
