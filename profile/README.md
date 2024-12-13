@@ -6,6 +6,10 @@ NextStep aims to empower students in making informed career decisions by address
 
 ---
 
+## APK Release
+You can find the released APK Below :
+- [NextStep v1.0](https://drive.google.com/file/d/1AYJt4Wn_IR4A3xU9TWtFS-Wfsq8BxgLC/view?usp=sharing)
+
 ## Features  
 
 ### 🎯 **Roadmap Viewer**  
@@ -28,15 +32,15 @@ NextStep aims to empower students in making informed career decisions by address
 
 This project was developed by a multidisciplinary team from the **Bangkit Academy 2024** cohort, including specialists in:  
 
-| Bangkit ID       | Name                      | Learning Path      | University                           | LinkedIn Profile | Github | Status |
-|-------------------|---------------------------|--------------------|---------------------------------------|------------------|--------|--------|
-| M429B4KY3627      | Rahmat Dwi Putra         | Machine Learning   | Universitas Dinamika Bangsa           |                  |        | Active |
-| M404B4KY4007      | Sahdad Jovito            | Machine Learning   | Politeknik Negeri Batam               |                  |        | Active |
-| M117B4KX2195      | Khadiza Jannahanggita Nurhuda | Machine Learning   | Institut Teknologi Nasional Bandung   |                  |        | Active |
-| C245B4KY0879      | Bryant Firsta Agdinto    | Cloud Computing    | Universitas Kristen Satya Wacana      |                  |        | Active |
-| C429B4KY3017      | Muhammad Raihan Saputra  | Cloud Computing    | Universitas Dinamika Bangsa           |                  |        | Active |
-| A013B4KY4508      | Wito Irawan              | Mobile Development | Universitas Terbuka                   |                  |        | Active |
-| A204B4KY1096      | Dhimas Arya Priambodo    | Mobile Development | Universitas Esa Unggul                |                  |        | Active |
+| Bangkit ID       | Name                      | Learning Path      | University                           | LinkedIn Profile | Github |
+|-------------------|---------------------------|--------------------|---------------------------------------|------------------|--------|
+| M429B4KY3627      | Rahmat Dwi Putra         | Machine Learning   | Universitas Dinamika Bangsa           |[Linkedin](https://www.linkedin.com/in/rahmat-dwi-putra-a5472929a/)|[@rahmatdwiputra12](https://github.com/rahmatdwiputra12)|
+| M404B4KY4007      | Sahdad Jovito            | Machine Learning   | Politeknik Negeri Batam               |[Linkedin](https://www.linkedin.com/in/sahdad-jovito/)|[@Djovie_](https://github.com/Djovie)|    
+| M117B4KX2195      | Khadiza Jannahanggita Nurhuda | Machine Learning   | Institut Teknologi Nasional Bandung   |[Linkedin](https://www.linkedin.com/in/khadizaajn/)|[@Khdzaaa](https://github.com/Khdzaaa)|       
+| C245B4KY0879      | Bryant Firsta Agdinto    | Cloud Computing    | Universitas Kristen Satya Wacana      |[Linkedin](https://www.linkedin.com/in/bryant-agdinto-7112311b8/)|[@Dintonesia](https://github.com/Dintonesia)|   
+| C429B4KY3017      | Muhammad Raihan Saputra  | Cloud Computing    | Universitas Dinamika Bangsa           |[Linkedin](https://www.linkedin.com/in/rhnsaputra/)|[@RaihanS](https://github.com/Timekeeper25)|  
+| A013B4KY4508      | Wito Irawan              | Mobile Development | Universitas Terbuka                   |[Linkedin](https://www.linkedin.com/in/wito-js)|[@witojs](https://github.com/witojs)|   
+| A204B4KY1096      | Dhimas Arya Priambodo    | Mobile Development | Universitas Esa Unggul                |[Linkedin](https://www.linkedin.com/in/dhimasarya/)|[@dhimasarya](https://github.com/dhimasarya)|   
 
 
 <h3 align="left">Languages and Tools:</h3>
